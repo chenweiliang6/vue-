@@ -1,0 +1,25 @@
+{
+  "zh": {
+    "basic": {
+      "text": "Vue3后台组件",
+      "children": [
+        {
+          "link": "/draggable",
+          "text": "Draggable 可拖拽"
+        },
+        {
+          "link": "/form",
+          "text": "Form 表单组件"
+        },
+        {
+          "link": "/search",
+          "text": "Search 搜索组件"
+        },
+        {
+          "link": "/image-preview",
+          "text": "ImagePreview 图片预览"
+        }
+      ]
+    }
+  }
+}
