@@ -78,7 +78,7 @@ import { sidebar } from './config/sidebars'
 import { nav } from './config/nav'
 export const config: UserConfig = {
   // base: '/vangle/', // 部署时的路径(默认 /)
-  title: 'Vangle', // 网站标题
+  title: 'William', // 网站标题
   description: 'a Vue 3 based component library for designers and developers', // 网站描述
   // 主题配置
   themeConfig: {
@@ -86,7 +86,7 @@ export const config: UserConfig = {
     // 底部信息
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2022-PRESENT vangleer and Vangle contributors'
+      copyright: 'Copyright © 2022-PRESENT vangleer and William contributors'
     },
     // algolia 配置
     algolia: {

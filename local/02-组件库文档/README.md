@@ -290,7 +290,7 @@ features:
 import type { UserConfig } from 'vitepress'
 
 export const config: UserConfig = {
-  title: 'Vangle',
+  title: 'William',
   description: 'a Vue 3 based component library for designers and developers',
   themeConfig: {
     logo: '/images/vite.svg',

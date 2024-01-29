@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: Vangle
+  name: William
   text: 高质量前端组件库
   tagline: 基于 Vue 3，面向设计师和开发者的组件库
   image:
     src: /images/logo-rect.png
-    alt: Vangle
+    alt: William
   actions:
     - theme: brand
       text: Get Started
