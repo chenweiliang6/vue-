@@ -60,7 +60,7 @@ const props = defineProps({
       { url: 'https://img0.baidu.com/it/u=2968274034,4191659377&fm=253&fmt=auto&app=138&f=JPEG?w=751&h=500' },
     ]
   },
-  title: { type: String, default: '比亚迪产品设计' },
+  // title: { type: String, default: '比亚迪产品设计' },
   modelValue: { type: Boolean, default: false },
   size: { type: String, default: 'auto' }, //fixed：图片固定宽高，auto：图片宽高使用图片原有的大小
   closeOnPressEscape: { type: Boolean, default: true },//是否可以通过按下 ESC 关闭 Dialog
@@ -167,7 +167,7 @@ const closePreview = () => {
     // resetImage()
     scaleValue.value = 1
     rotateValue.value = 0
-  }, 400);
+  }, 300);
 }
 
 onMounted(() => {
